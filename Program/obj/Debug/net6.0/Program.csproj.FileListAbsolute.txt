@@ -1,0 +1,15 @@
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\bin\Debug\net6.0\Program.exe
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\bin\Debug\net6.0\Program.deps.json
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\bin\Debug\net6.0\Program.dll
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\bin\Debug\net6.0\Program.pdb
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\obj\Debug\net6.0\Program.dll
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\obj\Debug\net6.0\refint\Program.dll
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\obj\Debug\net6.0\Program.pdb
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+D:\Игорь\Geek Brains\05 Контрольная работа 1\Test1\Program\obj\Debug\net6.0\ref\Program.dll
