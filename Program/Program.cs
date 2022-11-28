@@ -10,10 +10,11 @@
 
 string[] ChangeArray(string[] array)
 {
+    int maxLengthStr = 3;
     int j = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        if (array[i].Length < 4)
+        if (array[i].Length <= maxLengthStr)
         {
             j++;
         }
@@ -22,7 +23,7 @@ string[] ChangeArray(string[] array)
     j = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        if (array[i].Length < 4)
+        if (array[i].Length <= maxLengthStr)
         {
             newArray[j] = array[i];
             j++;
